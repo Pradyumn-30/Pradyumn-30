@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pradyumn-30
-- 👀 I’m interested in Mathematics, Statistics, Data Science, Machine Learning, Deep Learning, Physical Sciences, and Astronomy.
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on interesting Data Science Projects
+- 👀 I’m interested in Math, Statistics, Data Science, Machine Learning, Deep Learning, Formula 1, and Astronomy.
+- 🌱 I’m currently working as a AIML Senior Associate.
+- 💞️ I’m looking to collaborate on interesting Machine Learning Engineering Projects
 - 📫 How to reach me: Mail me at srivastava.pradyumn30@gmail.com
 
 <!---
