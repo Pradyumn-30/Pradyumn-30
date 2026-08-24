@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pradyumn-30
+- 👋 Hi, I’m Pradyumn!
 - 👀 I’m interested in Math, Statistics, Data Science, Machine Learning, Deep Learning, Formula 1, and Astronomy.
 - 🌱 I’m currently working as a AIML Senior Associate.
 - 🤝 I’m looking to collaborate on interesting Machine Learning Engineering Projects
